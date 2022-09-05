@@ -1,0 +1,118 @@
+.parents {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.pp {
+    text-align: center;
+}
+
+div.om {
+    width: 100%;
+    display: inline-block;
+}
+
+div.om1 {
+    background-color: black;
+    color: aliceblue;
+    font-size: x-large;
+    padding: 25px;
+    padding-top: 50px;
+    margin: 30px;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    display: inline-block;
+}
+
+p.om {
+    text-align: right;
+    color: yellow;
+}
+
+div.osama {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama2 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama3 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama4 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama5 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama6 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+div.osama7 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    display: inline-block;
+    max-width: 240px;
+}
+
+span.foot2 {
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    padding: 10px;
+    font-size: small;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+
+.mo {
+    color: yellow;
+    text-transform: uppercase;
+    font-size: x-small;
+    text-align: right;
+}
+
+h3.foot {
+    display: inline-block;
+}

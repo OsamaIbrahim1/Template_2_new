@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/index11.css">
+</head>
+
+<body>
+    <form>
+        <div class="div1">
+            <div class="div2">
+                <label for="input1">Name</label>
+                <input id="input1" type="text" placeholder="   Name" required>
+            </div>
+            <div class="div3">
+                <label for="input2">Email</label>
+                <input id="input2" type="email" placeholder="   Email" name="mail">
+            </div>
+            <div class="div4">
+                <label for="input3">password</label>
+                <input id="input3" type="password" placeholder="   password" minlength="8" required>
+            </div>
+            <div class="div5">
+                <label id="Gender" for="">Gender</label>
+                <div class="div6">
+                    <input type="radio" name="Gender" id="Male">
+                    <label for="Male">Male</label>
+                </div>
+                <div class="div7">
+                    <input type="radio" name="Gender" id="Female">
+                    <label for="Female">Female</label>
+                </div>
+            </div>
+            <div class="div8">
+                <label id="Sports" for="">Hoppies</label>
+                <div class="div9">
+                    <input id="Tennis" type="checkbox" name="Sports" value="Tennis">
+                    <label for="Tennis">Tennis</label>
+                </div>
+                <div class="div10">
+                    <input id="Running" type="checkbox" name="Sports" value="Running">
+                    <label for="Running">Running</label>
+                </div>
+                <div class="div11">
+                    <input id="Football" type="checkbox" name="Sports" value="Football">
+                    <label for="Football">Football</label>
+                </div>
+            </div>
+            <div class="div12">
+                <label for="select">Country</label>
+                <select name="Country" id="select">
+                    <option value="Cairo">Cairo</option>
+                    <option value="Giza" selected>Giza</option>
+                    <option value="Menofia">Menofia</option>
+                    <option value="Aswan">Aswan</option>
+                    <option value="Luxor">Luxor</option>
+                </select>
+            </div>
+            <div class="div13">
+                <input type="submit" value="submit" name="submit" id="submit">
+                <input type="reset" value="clear" name="clear" id="reset">
+            </div>
+        </div>
+    </form>
+    <script src="../js/demo11.js"></script>
+</body>
+
+</html>

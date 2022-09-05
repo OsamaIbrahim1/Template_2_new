@@ -1,0 +1,122 @@
+body {
+    background-color: rgb(116, 116, 116);
+}
+
+.div100 {
+    margin-left: 600px;
+    width: 250px;
+}
+
+.h1 {
+    color: rgb(82, 255, 119);
+    text-align: center;
+    border-style: dashed;
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+
+.div1 {
+    text-align: center;
+    border-style: dashed;
+    height: 550px;
+    padding-top: 50px;
+    margin-top: -40px;
+    color: rgb(187, 187, 187);
+    border-color: rgb(42, 208, 208);
+    background-color: blueviolet;
+}
+
+#input1,
+#input2,
+#input3 {
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    border: 2px solid rgb(56, 56, 56);
+    height: 40px;
+    margin: 15px;
+    font-weight: bolder;
+    font-size: medium;
+    transition: all 0.5s ease-in-out;
+}
+
+#input1,
+#input2 {
+    margin-left: 65px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Gender {
+    margin-left: -480px;
+}
+
+.div5 {
+    margin-top: 15px;
+}
+
+.div6 {
+    margin-top: -30px;
+    margin-left: -200px;
+
+}
+
+.div7 {
+    margin-top: -30px;
+    margin-left: 60px;
+
+}
+
+.div8 {
+    margin-top: 15px;
+    margin-left: -130px;
+}
+
+#Sports {
+    margin-left: -360px;
+}
+
+.div9 {
+    margin-left: -50px;
+    margin-top: -30px;
+}
+
+.div10 {
+    margin-left: 250px;
+    margin-top: -28px;
+}
+
+.div11 {
+    margin-left: 550px;
+    margin-top: -28px;
+}
+
+.div12 {
+    margin-left: -5px;
+    margin-top: 15px;
+}
+
+#select {
+    margin-left: 46px;
+    width: 420px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+#submit,
+#reset {
+    width: 250px;
+    height: 55px;
+    font-size: 30px;
+    margin: 15px;
+    margin-top: 40px;
+    text-align: center;
+    background-color: rgba(0, 127, 196, 0.856);
+    color: rgb(187, 187, 187);
+    border-radius: 10px;
+}
